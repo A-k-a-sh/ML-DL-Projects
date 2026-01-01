@@ -1,3 +1,6 @@
+## Notebook quick view - [click here](https://note-book-share.vercel.app/#/https://github.com/A-k-a-sh/ML-DL-Projects/blob/main/Deep%20learning/Emotion%20detection/Facial_emotion_detection_real_time.ipynb)
+
+
 # Facial Emotion Detection (Real-time)
 
 Deep learning project for detecting and classifying facial emotions in real-time using Convolutional Neural Networks. This system can identify human emotions from facial expressions, enabling applications in human-computer interaction, customer sentiment analysis, and mental health monitoring.

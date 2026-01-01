@@ -1,3 +1,7 @@
+## Notebook quick view - [binary_classification](https://note-book-share.vercel.app/#/https://github.com/A-k-a-sh/ML-DL-Projects/blob/main/Deep%20learning/Classification%20with%20pytorch/binary_classification.ipynb) | [multiclass_classification](https://note-book-share.vercel.app/#/https://github.com/A-k-a-sh/ML-DL-Projects/blob/main/Deep%20learning/Classification%20with%20pytorch/Multiclass_classification.ipynb)
+
+
+
 # Binary and Multiclass Classification with PyTorch
 
 This project contains two comprehensive classification implementations using PyTorch, demonstrating both binary and multiclass classification approaches from scratch.

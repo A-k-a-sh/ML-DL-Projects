@@ -1,3 +1,6 @@
+## Notebook quick view - [click here](https://note-book-share.vercel.app/#/https://github.com/A-k-a-sh/ML-DL-Projects/blob/main/Deep%20learning/DcGan/celebA_dcgan.ipynb)
+
+
 # DCGAN - CelebA Face Generation
 
 Deep Convolutional Generative Adversarial Network (DCGAN) implementation for generating photorealistic face images using the CelebA (Celebrity Faces Attributes) dataset. This project demonstrates advanced GAN training techniques and image generation.

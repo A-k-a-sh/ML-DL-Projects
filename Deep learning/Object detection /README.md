@@ -1,3 +1,5 @@
+## Notebook quick view - [click here](https://note-book-share.vercel.app/#/https://github.com/A-k-a-sh/ML-DL-Projects/blob/main/Deep%20learning/Object%20detection%20/coco-object-detection-with-pytorch-fastercnn.ipynb) | [click here](https://note-book-share.vercel.app/#/https://github.com/A-k-a-sh/ML-DL-Projects/blob/main/Deep%20learning/Object%20detection%20/coco-object-detection%20(1).ipynb)
+
 # COCO Object Detection with PyTorch
 
 Comprehensive object detection project using PyTorch's Faster R-CNN and other detection models on the COCO (Common Objects in Context) 2017 dataset. This project demonstrates modern object detection techniques, bounding box predictions, and multi-object recognition.

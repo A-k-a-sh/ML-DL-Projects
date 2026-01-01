@@ -1,3 +1,5 @@
+## Notebook quick view - [click here](https://note-book-share.vercel.app/#/https://github.com/A-k-a-sh/ML-DL-Projects/blob/main/Deep%20learning/Whisper%20generate%20subtitles/whisper-generate-subtitles.ipynb)
+
 # Whisper - Automatic Subtitle Generation
 
 Automatic subtitle and transcription generation for videos using OpenAI's Whisper speech recognition model. This project demonstrates state-of-the-art automatic speech recognition (ASR) for creating accurate subtitles with timestamps.

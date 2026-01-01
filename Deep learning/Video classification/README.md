@@ -1,3 +1,6 @@
+## Notebook quick view - [click here](https://note-book-share.vercel.app/#/https://github.com/A-k-a-sh/ML-DL-Projects/blob/main/Deep%20learning/Video%20classification/ucf101-action-recognition.ipynb)
+
+
 # UCF101 Action Recognition with R(2+1)D CNN
 
 Advanced video classification project that recognizes human actions in videos using the UCF101 dataset and R(2+1)D spatiotemporal Convolutional Neural Network architecture. This project demonstrates video understanding, temporal modeling, and action recognition techniques.

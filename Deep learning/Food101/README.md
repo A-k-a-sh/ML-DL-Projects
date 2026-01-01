@@ -1,3 +1,6 @@
+## Notebook quick view - [click here](https://note-book-share.vercel.app/#/https://github.com/A-k-a-sh/ML-DL-Projects/tree/main/Deep%20learning/Food101)
+
+
 # Food101 Image Classification
 
 A comprehensive deep learning project for classifying food images across 101 different food categories using the Food-101 dataset. This project demonstrates transfer learning, data handling with JSON metadata, and multi-class classification at scale.

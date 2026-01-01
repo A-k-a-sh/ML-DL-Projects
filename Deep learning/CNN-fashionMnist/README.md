@@ -1,3 +1,6 @@
+## Notebook quick view - [click here](https://note-book-share.vercel.app/#/https://github.com/A-k-a-sh/ML-DL-Projects/blob/main/Deep%20learning/CNN-fashionMnist/CNN-fashionMnist.ipynb)
+
+
 # CNN Fashion-MNIST Classification
 
 A comprehensive computer vision project using Convolutional Neural Networks (CNN) to classify clothing items from the Fashion-MNIST dataset. This project demonstrates end-to-end deep learning workflow from data loading to model evaluation.
